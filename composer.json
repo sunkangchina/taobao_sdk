@@ -1,0 +1,19 @@
+{
+    "name": "helophp/taobao_sdk",
+    "type": "library",
+    "description": "",
+    "keywords": ["php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ken.sun",
+            "email": "yiiphp@foxmail.com" 
+        }
+    ],
+    "require": {
+        "php": ">=7.4" 
+    }, 
+    "autoload": { 
+         
+    }
+}
